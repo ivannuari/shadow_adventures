@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 9bceca459140e1045b6cb9e34fdfca99
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -679,7 +679,7 @@ PlayerSettings:
   cloudProjectId: e4fea6c6-48c2-4052-80e6-3db46ac2439f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: shadow adventure
   organizationId: nuariivan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
